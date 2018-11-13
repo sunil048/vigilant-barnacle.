@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 this is welcome file
 hi this is second line
+=======
+added new file in server directl
+this is another line added
+
+hi welcome
+>>>>>>> ab31502ace931bb29a669234395d0128b8ae3cf5
